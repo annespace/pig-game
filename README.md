@@ -1,3 +1,6 @@
+If you want to know the rule of this game, ... https://en.wikipedia.org/wiki/Pig_(dice_game)<br/> 
+In this demo, the first player to score 20 or more points wins.<br/>
+![ezgif com-gif-maker (2)](https://github.com/annespace/pig-game/assets/124949697/504bb293-74d6-4350-a6ea-db6242b82dc9)
 
 
 📦 Resources<br/> <br/> 
